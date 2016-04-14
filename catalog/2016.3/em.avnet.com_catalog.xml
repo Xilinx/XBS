@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <company>em.avnet.com</company>
+  <boards>
+    <board>
+      <path>em.avnet.com/microzed</path>
+      <name>microzed</name>
+      <description>MicroZed Board</description>
+      <revs>
+        <rev>
+          <file_revision>1.2</file_revision>
+        </rev>
+      </revs>
+    </board>
+  </boards>
+</catalog>
