@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <company>mycompany</company>
+  <boards>
+    <board>
+      <path>mycompany/myboard</path>
+      <name>myboard</name>
+      <description>Test for git branch</description>
+      <revs>
+        <rev>
+          <file_revision>1.0</file_revision>
+        </rev>
+      </revs>
+    </board>
+  </boards>
+</catalog>
